@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercecrypt",
+        "uuid": 1242535,
+        "checksum": "wyd3wt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
